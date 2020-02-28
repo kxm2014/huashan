@@ -4,4 +4,6 @@ apple
 apple @@@@@@@@@@@@@@dfadf
 appleadfadfadsf edk\k\\\\ nlt
 1231231231
-master version
+master v
+appleadfadfadsf edk\k\\\\ nlt 
+hot_fix v
